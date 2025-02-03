@@ -5,13 +5,13 @@ This repository contains my solutions and projects for various **FreeCodeCamp** 
 ## 📂 Repository Structure
 
 ## 🚀 Certifications Covered
-- 🖥️ **Responsive Web Design**
-- 📜 **JavaScript Algorithms and Data Structures**
-- ⚛️ **Front End Development Libraries**
-- 📊 **Data Visualization**
-- 🔗 **APIs and Microservices**
-- 🤖 **Machine Learning with Python**
-- (More to be added as I progress!)
+- 🖥️ **Responsive Web Design** (completed)
+- 📜 **JavaScript Algorithms and Data Structures** (in progress)
+- ⚛️ **Front End Development Libraries** (to be done)
+- 📊 **Data Visualization** (to be done)
+- 🔗 **APIs and Microservices** (to be done)
+- 🤖 **Machine Learning with Python** (to be done)
+- (More to be added as I progress!) 
 
 ## 🛠️ How to Use
 1. Clone the repository:  
