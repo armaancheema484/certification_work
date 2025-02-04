@@ -29,6 +29,12 @@ This JavaScript program calculates a students grade based on their score and det
    - Determines the **student's grade**.
    - Displays whether the student **passed or failed**.
 
+## 🔧 Usage
+Copy and paste the script into a .js file (e.g., grades.js).
+Run the script using Node.js:
+node grades.js
+Modify the scores array to test different cases.
+
 ## 📌 Example Output
 ```bash
 Class average: 71.7. Your grade: F. You failed the course.
