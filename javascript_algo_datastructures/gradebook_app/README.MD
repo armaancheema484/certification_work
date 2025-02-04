@@ -33,7 +33,7 @@ This JavaScript program calculates a students grade based on their score and det
 Copy and paste the script into a .js file (e.g., grades.js).
 Run the script using Node.js:
 ```bash
-node grades.js
+node grades.js```
 
 ## 📌 Example Output
 ```bash
