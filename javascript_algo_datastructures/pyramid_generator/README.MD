@@ -26,3 +26,5 @@ This JavaScript script generates a pyramid using a specified character (`#` by d
    ```bash
    node pyramid.js
 3. Modify the character, count, or inverted variables to customize the output.
+
+javascript_algo_datastructures/pyramid_generator/Screenshot 2025-02-03 110852.png
